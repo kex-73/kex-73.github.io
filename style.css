@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+  display: flex;
+  justify-content: center;
+}
+
+canvas {
+  width: 90vw;
+height: 100vh;
+margin: 0;
+justify-content: center;
+aspect-ratio: 16/9;
+}
