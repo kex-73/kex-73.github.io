@@ -11,3 +11,7 @@ margin: 0;
 justify-content: center;
 aspect-ratio: 16/9;
 }
+
+p {
+  font-family: Arial, sans-serif;
+}
