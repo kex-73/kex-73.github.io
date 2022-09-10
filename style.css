@@ -2,6 +2,7 @@ body {
   margin: 0;
   display: flex;
   justify-content: center;
+  background-color: #181a1b;
 }
 
 canvas {
@@ -14,4 +15,10 @@ aspect-ratio: 16/9;
 
 .p {
   font-family: Arial, sans-serif;
+  color: #3391ff;
+  position: absolute;
+  display: flex;
+  bottom: 0;
+  right: 0;
+  margin-right: 10px;
 }
